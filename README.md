@@ -1,6 +1,3 @@
-# Computer-Networks
-Core networking protocols and error-control algorithms implemented in Python
-
 # Computer Networks Protocols
 
 This repository showcases independent implementations of fundamental
